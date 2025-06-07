@@ -39,7 +39,6 @@ python ga.py
 
 ## ❓ Troubleshooting
 
-- **Module Not Found**: Run `pip install -r requirements.txt` again or check the Python environment.
 - **Permission Errors**: Try using `python3` or running with admin rights.
 
 ---
