@@ -24,3 +24,5 @@ Check installations by running:
 python --version
 pip --version
 ```
+
+**Note**: On some systems, use `python3` and `pip3` instead of `python` and `pip`.
